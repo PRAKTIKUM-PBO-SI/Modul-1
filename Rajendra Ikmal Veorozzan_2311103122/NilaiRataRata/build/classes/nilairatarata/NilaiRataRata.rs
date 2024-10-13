@@ -1,0 +1,2 @@
+NilaiRataRata.HitungRataRata
+NilaiRataRata.NilaiRataRata
